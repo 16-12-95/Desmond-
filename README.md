@@ -52,5 +52,6 @@ My experience in computer science and informatics has sparked a strong interest 
 </div>
 
 ## Projects
+- Analyze a Large Dataset of Fraud in Financial Payment Services- Working with data of security critical systems 
 - Detection Lab
 - SOC Automation Project
