@@ -14,7 +14,7 @@ My experience in computer science and informatics has sparked a strong interest 
 |-----------------------------------------------|----------------------------|
 | Exploratory Data Analysis                     | <a href="http://localhost:8890/notebooks/Downloads/task1.ipynb?">Analyze a Large Dataset of Fraud in Financial Payment Services</a>|
 | Open-Source Software                          | <a href="http://localhost:8890/notebooks/Downloads/task1.ipynb?">Analyze a Large Dataset of Fraud in Financial Payment Services</a>|
-| Security Automation with Shuffle SOAR         | SOC Automation Lab|
+| Presentation                                  | <a href="http://localhost:8890/notebooks/Downloads/task1.ipynb?">Analyze a Large Dataset of Fraud in Financial Payment Services</a>||
 | Incident Response Planning and Execution      | SOC Automation Lab|
 | Case Management with TheHive                  | SOC Automation Lab|
 | Scripting and Automation for Threat Mitigation | SOC Automation Lab|
