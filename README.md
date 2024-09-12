@@ -2,8 +2,7 @@
 <a href="https://www.linkedin.com/in/desmond-chiwedere-079a01167/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
 
-I am a recent graduate with a strong passion for technology and a commitment to tackling challenging problems.
-
+I am currently a SOC Analyst (Virtual Intern) at JPMorgan Chase & Co. I recently graduated with a strong passion for technology and a commitment to tackling challenging problems.
 
 My experience in computer science and informatics has sparked a strong interest in cybersecurity, and I'm now excited to shift my focus to this area, with the goal of joining a Security Operations Center (SOC) as a Tier 1 Analyst.
 
